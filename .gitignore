@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+env
+settings.py
+.env
+data

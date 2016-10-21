@@ -1,0 +1,10 @@
+langid
+nltk
+python-instagram
+twython
+psycopg2
+gensim
+pandas==0.18.1
+pyldavis
+scikit-learn
+matplotlib
